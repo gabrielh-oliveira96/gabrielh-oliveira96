@@ -3,8 +3,8 @@
 🎯 QA Engineer em formação | Automação de Testes | Testes de API
 
 📍 Porto Alegre - RS
-📚 Arquitetura e Urbanismo - UNIFRAN (2014~2018)
-📚 Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul (2026~2028)
+📚 Arquitetura e Urbanismo - UNIFRAN (2014 - 2018)
+📚 Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul (2026 - 2028)
 📚 Mentoria de Testes de Software 2.0 - Julio de Lima (2026)
 
 ---
@@ -76,7 +76,7 @@ Experiência prática em projetos próprios aplicando validações em aplicaçõ
 
 ## 📫 Contato
 
-* LinkedIn: ([coloca aqui](https://www.linkedin.com/in/gabrieldeoliveira-qa/))
+* LinkedIn: ([(https://www.linkedin.com/in/gabrieldeoliveira-qa/]))
 * Email: (gbh.oliveira96@gmail.com)
 
 
