@@ -3,20 +3,23 @@
 🎯 QA Engineer em formação | Automação de Testes | Testes de API
 
 📍 Porto Alegre - RS
+
 📚 Arquitetura e Urbanismo - UNIFRAN (2014 - 2018)
+
 📚 Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul (2026 - 2028)
+
 📚 Mentoria de Testes de Software 2.0 - Julio de Lima (2026)
 
 ---
 
-## 💡 Sobre mim
+## Sobre mim
 
 Profissional em transição para a área de Qualidade de Software, com foco em testes manuais e automação.
 Experiência prática em projetos próprios aplicando validações em aplicações web e APIs, com foco em qualidade e regras de negócio.
 
 ---
 
-## 🧪 Testes
+## Testes
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge\&logo=cypress\&logoColor=white)
@@ -24,14 +27,14 @@ Experiência prática em projetos próprios aplicando validações em aplicaçõ
 
 ---
 
-## 🔌 API
+## API
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
 
 ---
 
-## 🧠 Abordagens de Teste
+## Abordagens de Teste
 
 * Testes Funcionais
 * Testes Exploratórios
@@ -43,7 +46,7 @@ Experiência prática em projetos próprios aplicando validações em aplicaçõ
 
 ---
 
-## 💻 Automação
+## Automação
 
 * Automação Web (Selenium e Cypress)
 * Automação de API
@@ -52,21 +55,21 @@ Experiência prática em projetos próprios aplicando validações em aplicaçõ
 
 ---
 
-## 🗄️ Banco de Dados
+## Banco de Dados
 
 * SQL (consultas, filtros e validações de dados)
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
-### 🧾 Cadastro de Clientes (Web)
+### Cadastro de Clientes (Web)
 
 * Validação de formulário
 * Testes de campos obrigatórios
 * Testes de entrada inválida
 
-### 🔌 Structa API
+### Structa API
 
 * Testes de endpoints REST
 * Validação de status code
@@ -74,7 +77,7 @@ Experiência prática em projetos próprios aplicando validações em aplicaçõ
 
 ---
 
-## 📫 Contato
+## Contato
 
 * LinkedIn: (https://www.linkedin.com/in/gabrieldeoliveira-qa/)
 * Email: (gbh.oliveira96@gmail.com)
