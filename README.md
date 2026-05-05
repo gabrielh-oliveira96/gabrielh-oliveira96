@@ -1,6 +1,6 @@
 # Gabriel de Oliveira
 
-🎯 QA Engineer em formação | Automação de Testes | Testes de API
+🎯 QA | Automação de Testes | Testes de API
 
 📍 Porto Alegre - RS
 
