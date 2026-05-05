@@ -3,7 +3,9 @@
 🎯 QA Engineer em formação | Automação de Testes | Testes de API
 
 📍 Porto Alegre - RS
-📚 Mentoria de Testes de Software 2.0 - Julio de Lima
+📚 Arquitetura e Urbanismo - UNIFRAN (2014~2018)
+📚 Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul (2026~2028)
+📚 Mentoria de Testes de Software 2.0 - Julio de Lima (2026)
 
 ---
 
@@ -34,7 +36,7 @@ Experiência prática em projetos próprios aplicando validações em aplicaçõ
 * Testes Funcionais
 * Testes Exploratórios
 * Testes de API
-* Heurísticas de Teste (VADER)
+* Heurísticas de Teste
 * Análise de Valor Limite
 * Tabela de Decisão
 * Estratégia de Testes
@@ -74,8 +76,8 @@ Experiência prática em projetos próprios aplicando validações em aplicaçõ
 
 ## 📫 Contato
 
-* LinkedIn: (coloca aqui)
-* Email: (coloca aqui)
+* LinkedIn: ([coloca aqui](https://www.linkedin.com/in/gabrieldeoliveira-qa/))
+* Email: (gbh.oliveira96@gmail.com)
 
 
 <!--
